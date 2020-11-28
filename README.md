@@ -14,4 +14,4 @@ Think of the data structures and algorithms that can help people query their mai
 ### Note
 * You can know how the detail of the task from the file "Task_Description.pdf".
 * You can know how the algorithms are designed from the file "Task_Explanation.pdf".
-
+* You can generate your own data for this program. I you need the original data, you can contact me.
