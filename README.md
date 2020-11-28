@@ -7,8 +7,8 @@ Think of the data structures and algorithms that can help people query their mai
 
 ### Run Locally
 * Run this Command: git clone <https://github.com/b05702057/Mail-Query-System.git>
-* Run this Command: make
-* Run this Command: ./demo
+* Run this Command: make run
+* Run this Command: ./run
 * Enter the queries
 
 ### Note
